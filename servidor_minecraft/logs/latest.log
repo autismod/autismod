@@ -5155,3 +5155,47 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [19:06:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AmongUS was slain by Cyclops
 [19:06:01] [Server thread/INFO] [tombstone]: The last known grave of AmongUS is at location [name:Last Grave, x:-294, y:64, z:248] in the dimension 0
 [19:06:03] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to AmongUS
+[19:06:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno is bleeding...
+[19:06:58] [Server thread/INFO] [tombstone]: The death event of the player lasterno was cancelled by another mod
+[19:06:58] [Server thread/INFO] [tombstone]: lasterno has successfully been saved
+[19:07:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno is bleeding...
+[19:07:08] [Server thread/INFO] [tombstone]: The death event of the player lasterno was cancelled by another mod
+[19:07:08] [Server thread/INFO] [tombstone]: lasterno has successfully been saved
+[19:07:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno is bleeding...
+[19:07:16] [Server thread/INFO] [tombstone]: The death event of the player lasterno was cancelled by another mod
+[19:07:16] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to lasterno
+[19:07:16] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for lasterno
+[19:07:16] [Server thread/INFO] [tombstone]: lasterno has successfully been saved
+[19:07:22] [Server thread/WARN] [com.ferreusveritas.dynamictrees.trees.TreeFamily]: Block Block{dynamictrees:darkoakbranchx} not valid branch for dynamictrees:darkoak.
+[19:07:22] [Server thread/WARN] [com.ferreusveritas.dynamictrees.trees.TreeFamily]: Block Block{dynamictrees:darkoakbranchx} not valid branch for dynamictrees:darkoak.
+[19:07:34] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to AmongUS
+[19:07:34] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for AmongUS
+[19:07:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: AmongUS moved too quickly! 254.0910852965589,-9.5,-194.11581330703697
+[19:07:55] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to lasterno
+[19:07:55] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for lasterno
+[19:08:00] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to AmongUS
+[19:08:00] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for AmongUS
+[19:08:36] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to AmongUS
+[19:08:36] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for AmongUS
+[19:08:46] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to AmongUS
+[19:08:46] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for AmongUS
+[19:14:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AmongUS is bleeding...
+[19:14:15] [Server thread/INFO] [tombstone]: The death event of the player AmongUS was cancelled by another mod
+[19:14:15] [Server thread/INFO] [tombstone]: AmongUS has successfully been saved
+[19:14:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ErPatatusssss is bleeding...
+[19:14:29] [Server thread/INFO] [tombstone]: The death event of the player ErPatatusssss was cancelled by another mod
+[19:14:29] [Server thread/INFO] [tombstone]: ErPatatusssss has successfully been saved
+[19:14:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ErPatatusssss fell from a high place
+[19:14:33] [Server thread/INFO] [tombstone]: The last known grave of ErPatatusssss is at location [name:Last Grave, x:-293, y:64, z:224] in the dimension 0
+[19:14:35] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to ErPatatusssss
+[19:14:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ErPatatusssss is bleeding...
+[19:14:57] [Server thread/INFO] [tombstone]: The death event of the player ErPatatusssss was cancelled by another mod
+[19:14:57] [Server thread/INFO] [tombstone]: ErPatatusssss has successfully been saved
+[19:15:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ErPatatusssss has reached the goal [Chain Death]
+[19:15:01] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[19:15:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ErPatatusssss was slain by lasterno
+[19:15:01] [Server thread/INFO] [tombstone]: The last known grave of ErPatatusssss is at location [name:Last Grave, x:-290, y:61, z:209] in the dimension 0
+[19:15:03] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to ErPatatusssss
+[19:15:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AmongUS was slain by lasterno
+[19:15:14] [Server thread/INFO] [tombstone]: The last known grave of AmongUS is at location [name:Last Grave, x:-290, y:67, z:282] in the dimension 0
+[19:15:16] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to AmongUS
