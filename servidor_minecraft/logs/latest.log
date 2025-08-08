@@ -5061,3 +5061,32 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [18:35:45] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [18:35:45] [Server thread/WARN] [FML]: Quark loaded a new chunk [-25, -17] in dimension 0 (overworld) while populating chunk [-24, -19], causing cascading worldgen lag.
 [18:35:45] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:38:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: AmongUS moved too quickly! -0.35981327587919054,7.37957102022348,-7.160527501244616
+[18:39:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: AmongUS moved too quickly! -0.09408722306579875,2.844083167572876,-24.534012998068988
+[18:40:24] [Server thread/INFO] [ebwizardry]: Synchronising advancements for AmongUS
+[18:40:24] [Server thread/INFO] [ebwizardry]: Synchronising advancements for AmongUS
+[18:40:24] [Server thread/INFO] [ebwizardry]: Synchronising advancements for AmongUS
+[18:41:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for AmongUS
+[18:41:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for AmongUS
+[18:41:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for AmongUS
+[18:41:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for AmongUS
+[18:41:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for AmongUS
+[18:41:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for AmongUS
+[18:41:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for AmongUS
+[18:41:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for AmongUS
+[18:41:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for AmongUS
+[18:41:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for AmongUS
+[18:41:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for AmongUS
+[18:41:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for AmongUS
+[18:41:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for AmongUS
+[18:41:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: lasterno moved too quickly! 10.557496658835191,-1.062075805634251,2.010237468773255
+[18:41:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: lasterno moved wrongly!
+[18:42:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno is bleeding...
+[18:42:00] [Server thread/INFO] [tombstone]: The death event of the player lasterno was cancelled by another mod
+[18:42:01] [Server thread/INFO] [tombstone]: lasterno has successfully been saved
+[18:42:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno fell from a high place
+[18:42:03] [Server thread/INFO] [tombstone]: The last known grave of lasterno is at location [name:Last Grave, x:-287, y:64, z:232] in the dimension 0
+[18:42:04] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to lasterno
+[18:42:44] [Server thread/INFO] [ebwizardry]: Synchronising advancements for AmongUS
+[18:45:40] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[18:46:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: AmongUS moved too quickly! -0.004806758835911751,-7.541607546097211,11.372465232326505
