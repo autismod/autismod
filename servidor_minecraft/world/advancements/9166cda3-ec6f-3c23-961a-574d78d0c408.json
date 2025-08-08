@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "bewitchment:mined_garnet": {
+    "criteria": {
+      "hat": "2025-08-08 18:32:49 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:root": {
     "criteria": {
       "auto": "2025-08-07 17:53:48 +0000"
@@ -71,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-08-08 18:32:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-08-07 18:17:40 +0000"
@@ -86,6 +98,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-08-07 18:20:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-08-08 18:32:18 +0000"
     },
     "done": true
   },
@@ -263,6 +281,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-08-07 18:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/speckled_melon": {
+    "criteria": {
+      "has_melon": "2025-08-08 18:32:18 +0000"
     },
     "done": true
   },
@@ -500,6 +524,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stonebrick": "2025-08-08 18:35:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2025-08-07 18:06:58 +0000"
@@ -652,6 +682,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/oil": {
+    "criteria": {
+      "in_oil": "2025-08-08 18:31:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-08-08 15:38:24 +0000"
@@ -721,6 +757,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-07 18:16:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stonebrick": "2025-08-08 18:35:17 +0000"
     },
     "done": true
   },
@@ -925,6 +967,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-08-07 18:38:01 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:mined_amethyst": {
+    "criteria": {
+      "hat": "2025-08-08 18:34:35 +0000"
     },
     "done": true
   },
@@ -1238,6 +1286,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-08-08 18:32:16 +0000"
+    },
+    "done": true
+  },
   "ebwizardry:handbook/crystal_flowers": {
     "criteria": {
       "criteria_0": "2025-08-07 18:55:47 +0000"
@@ -1268,6 +1322,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lit_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-08-08 18:32:16 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/sand_from_dried_sand": {
     "criteria": {
       "has_gem_block": "2025-08-07 18:38:30 +0000"
@@ -1289,6 +1349,12 @@
   "minecraft:recipes/building_blocks/stonebrick": {
     "criteria": {
       "has_stone": "2025-08-08 16:12:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon_block": {
+    "criteria": {
+      "has_melon": "2025-08-08 18:32:18 +0000"
     },
     "done": true
   },
@@ -1373,6 +1439,12 @@
   "mcwtrpdoors:recipes/metal/metal_full_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-07 18:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
+    "criteria": {
+      "has_stonebrick": "2025-08-08 18:35:17 +0000"
     },
     "done": true
   },
