@@ -5255,3 +5255,5 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [19:43:17] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
 [19:43:17] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
 [19:43:17] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[19:54:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ErPatatusssss has made the advancement [Purification in Progress]
+[19:54:47] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
