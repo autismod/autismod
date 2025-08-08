@@ -65,15 +65,33 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_beach_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-08 18:56:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-08-07 18:38:01 +0000"
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_tropical_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-08 18:56:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-07 18:16:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_cottage_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-08 18:56:15 +0000"
     },
     "done": true
   },
@@ -235,6 +253,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-08-08 18:56:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-08-08 15:44:11 +0000",
@@ -377,6 +401,12 @@
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_bonemeal": "2025-08-07 18:44:25 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_paper_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-08 18:56:15 +0000"
     },
     "done": true
   },
@@ -676,6 +706,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-08 18:56:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-08-08 15:38:24 +0000"
@@ -697,6 +733,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_red_flower": "2025-08-08 15:54:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-08 18:56:15 +0000"
     },
     "done": true
   },
@@ -1000,6 +1042,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-08-08 18:56:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-08-07 18:38:01 +0000"
@@ -1133,6 +1181,12 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/dark_oak_planks_path": {
+    "criteria": {
+      "has_planks": "2025-08-08 18:56:15 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bark/dark_oak_bark_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-08 16:53:41 +0000"
@@ -1169,6 +1223,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-08-08 15:38:24 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barn_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-08 18:56:15 +0000"
     },
     "done": true
   },
@@ -1262,6 +1322,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_glass_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-08 18:56:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-08-07 18:38:01 +0000"
@@ -1328,6 +1394,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_classic_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-08 18:56:15 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/sand_from_dried_sand": {
     "criteria": {
       "has_gem_block": "2025-08-07 18:38:30 +0000"
@@ -1391,6 +1463,12 @@
   "mcwtrpdoors:recipes/oak/oak_paper_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-07 18:17:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-08-08 18:56:15 +0000"
     },
     "done": true
   },
