@@ -776,6 +776,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2025-08-08 19:02:55 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/chain_death": {
     "criteria": {
       "coded_trigger": "2025-08-07 18:32:29 +0000"
