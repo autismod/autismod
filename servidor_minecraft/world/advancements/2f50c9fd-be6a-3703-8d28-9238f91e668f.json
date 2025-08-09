@@ -517,6 +517,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_voodoo_poppet": {
+    "criteria": {
+      "has_ingredient": "2025-08-09 17:34:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-08-07 19:23:01 +0000"
@@ -1034,6 +1040,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-08-09 17:38:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-08-07 18:34:47 +0000"
@@ -1188,6 +1200,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-07 18:57:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-08-09 17:38:15 +0000"
     },
     "done": true
   },
@@ -1829,6 +1847,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-08-09 17:34:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-08-08 10:10:26 +0000"
@@ -2117,6 +2141,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-08-09 17:38:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-08-08 10:14:03 +0000"
@@ -2391,6 +2421,12 @@
   "biomesoplenty:recipes/tools/empty_jar": {
     "criteria": {
       "has_glass": "2025-08-07 18:57:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2025-08-09 17:38:15 +0000"
     },
     "done": true
   },
