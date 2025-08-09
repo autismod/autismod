@@ -4852,3 +4852,23 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [14:12:08] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player ErPatatusssss
 [14:12:16] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of ErPatatusssss (18)
 [14:12:16] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to ErPatatusssss
+[14:22:14] [Server thread/WARN] [vampirism]: [EntityEventHandler]Could not replace zombie target task
+[14:23:10] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[14:23:10] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@393e9c28)
+[14:23:10] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to lasterno
+[14:23:11] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for lasterno
+[14:23:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno is bleeding...
+[14:23:45] [Server thread/INFO] [tombstone]: The death event of the player lasterno was cancelled by another mod
+[14:23:45] [Server thread/INFO] [tombstone]: lasterno has successfully been saved
+[14:23:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Wildfire scorched lasterno
+[14:23:47] [Server thread/INFO] [tombstone]: The last known grave of lasterno is at location [name:Last Grave, x:-58, y:52, z:79] in the dimension -1
+[14:23:49] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to lasterno
+[14:24:03] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to lasterno
+[14:24:03] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for lasterno
+[14:24:47] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[14:24:47] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[14:24:47] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[14:25:42] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to lasterno
+[14:25:42] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for lasterno
+[14:28:57] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to lasterno
+[14:28:57] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for lasterno
