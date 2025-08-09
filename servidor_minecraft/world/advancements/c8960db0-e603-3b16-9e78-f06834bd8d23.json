@@ -543,6 +543,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2025-08-09 15:09:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "skeleton": "2025-08-08 08:13:32 +0000",
