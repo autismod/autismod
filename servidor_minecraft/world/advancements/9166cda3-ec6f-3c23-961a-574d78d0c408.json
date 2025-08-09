@@ -934,15 +934,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-08-08 19:43:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stonebrick": "2025-08-08 18:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-08-08 19:43:17 +0000"
     },
     "done": true
   },
@@ -1096,15 +1096,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/green_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-08-08 19:43:17 +0000"
-    },
-    "done": true
-  },
   "tombstone:tutorial/chain_death": {
     "criteria": {
       "coded_trigger": "2025-08-08 19:15:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-08 19:43:17 +0000"
     },
     "done": true
   },
