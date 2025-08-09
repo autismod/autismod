@@ -4872,3 +4872,17 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [14:25:42] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for lasterno
 [14:28:57] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to lasterno
 [14:28:57] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for lasterno
+[14:29:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ErPatatusssss moved too quickly! -0.2116990401801786,11.077894877845395,-1.0207821225365592
+[14:30:29] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to lasterno
+[14:30:29] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for lasterno
+[14:31:03] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[14:31:03] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[14:31:04] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[14:33:12] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[14:33:12] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[14:37:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno has made the advancement [Isn't It Iron Pick]
+[14:37:30] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[14:38:27] [Server thread/WARN] [com.ferreusveritas.dynamictrees.trees.TreeFamily]: Block Block{dynamictrees:darkoakbranchx} not valid branch for dynamictrees:darkoak.
+[14:38:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lasterno: Set own game mode to Creative Mode]
+[14:39:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ErPatatusssss moved wrongly!
+[14:39:35] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
