@@ -1148,6 +1148,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/root": {
+    "criteria": {
+      "certus": "2025-08-09 15:00:50 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/paper_lamp": {
     "criteria": {
       "paper": "2025-08-08 15:01:00 +0000"
@@ -1803,6 +1809,12 @@
     },
     "done": true
   },
+  "bewitchment:mined_salt": {
+    "criteria": {
+      "hat": "2025-08-09 15:05:03 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_tropical_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-08 10:14:29 +0000"
@@ -1986,6 +1998,12 @@
   "mcwtrpdoors:recipes/oak/oak_four_panel_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-07 19:18:08 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2025-08-09 14:59:26 +0000"
     },
     "done": true
   },

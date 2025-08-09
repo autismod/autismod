@@ -4906,3 +4906,85 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [14:43:55] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to AmongUS
 [14:47:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ErPatatusssss moved too quickly! -0.09642138662803745,11.069326633206046,0.928730114209003
 [14:49:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ErPatatusssss moved too quickly! 1.490296921651634,-0.4479087486436839,10.367114305625819
+[14:50:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: AmongUS moved too quickly! 5.632123943851184,1.4568312332866213,8.803526185694096
+[14:50:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: AmongUS moved too quickly! 5.639844779322118,0.0,8.792724109314527
+[14:50:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lasterno: Set own game mode to Creative Mode]
+[14:50:17] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[14:50:17] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[14:50:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lasterno: Set own game mode to Survival Mode]
+[14:50:31] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[14:52:13] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[14:54:52] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[14:54:52] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[14:54:52] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[14:54:52] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[14:54:52] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[14:54:52] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[14:54:52] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[14:55:50] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[14:55:50] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[14:55:50] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[14:55:50] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[14:56:46] [Server thread/INFO] [ebwizardry]: Synchronising advancements for AmongUS
+[14:56:46] [Server thread/INFO] [ebwizardry]: Synchronising advancements for AmongUS
+[14:56:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: AmongUS moved too quickly! -10.799536170941224,2.078157274123214,-11.095443466631224
+[14:57:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: AmongUS moved too quickly! -14.774842659351975,7.117200120607606,-11.73230563189398
+[14:57:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AmongUS is bleeding...
+[14:57:55] [Server thread/INFO] [tombstone]: The death event of the player AmongUS was cancelled by another mod
+[14:57:55] [Server thread/INFO] [tombstone]: AmongUS has successfully been saved
+[14:58:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AmongUS was pricked to death
+[14:58:00] [Server thread/INFO] [tombstone]: The last known grave of AmongUS is at location [name:Last Grave, x:-324, y:64, z:117] in the dimension 0
+[14:58:02] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to AmongUS
+[14:59:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ErPatatusssss moved too quickly! -9.590206323931966,0.8000884076886052,-3.826672123063105
+[14:59:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno has made the advancement [First Age]
+[14:59:26] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[15:00:50] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[15:01:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[15:01:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[15:01:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[15:01:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[15:01:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[15:01:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[15:01:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[15:01:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[15:01:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[15:01:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[15:01:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[15:01:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[15:01:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[15:01:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[15:01:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[15:01:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[15:01:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[15:01:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[15:01:42] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[15:01:42] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[15:01:42] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[15:01:42] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[15:01:42] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[15:04:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ErPatatusssss moved too quickly! 10.23490351233113,6.51134783410771,-5.78763680867155
+[15:05:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno has made the advancement [All these flavors, and you chose to be salty]
+[15:05:03] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[15:05:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ErPatatusssss moved too quickly! 3.349239776859463,-9.839715587882921,-1.568383485183631
+[15:06:08] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[15:06:08] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[15:08:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AmongUS is bleeding...
+[15:08:15] [Server thread/INFO] [tombstone]: The death event of the player AmongUS was cancelled by another mod
+[15:08:15] [Server thread/INFO] [tombstone]: AmongUS has successfully been saved
+[15:08:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AmongUS is bleeding...
+[15:08:46] [Server thread/INFO] [tombstone]: The death event of the player AmongUS was cancelled by another mod
+[15:08:46] [Server thread/INFO] [tombstone]: AmongUS has successfully been saved
+[15:08:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AmongUS is bleeding...
+[15:08:53] [Server thread/INFO] [tombstone]: The death event of the player AmongUS was cancelled by another mod
+[15:08:53] [Server thread/INFO] [tombstone]: AmongUS has successfully been saved
+[15:09:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AmongUS is bleeding...
+[15:09:07] [Server thread/INFO] [tombstone]: The death event of the player AmongUS was cancelled by another mod
+[15:09:07] [Server thread/INFO] [tombstone]: AmongUS has successfully been saved
+[15:09:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno is bleeding...
+[15:09:18] [Server thread/INFO] [tombstone]: The death event of the player lasterno was cancelled by another mod
+[15:09:18] [Server thread/INFO] [tombstone]: lasterno has successfully been saved
+[15:09:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno burned to ashes
+[15:09:24] [Server thread/INFO] [tombstone]: The last known grave of lasterno is at location [name:Last Grave, x:-302, y:53, z:260] in the dimension 0
+[15:09:31] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to lasterno
+[15:09:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno has reached the goal [Discreet Search]
+[15:09:53] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
