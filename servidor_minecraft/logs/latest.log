@@ -4815,3 +4815,5 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [13:01:39] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to lasterno
 [13:01:39] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for lasterno
 [13:01:39] [Server thread/WARN] [vampirism]: [EntityEventHandler]Could not replace zombie target task
+[13:03:40] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to lasterno
+[13:03:40] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for lasterno
