@@ -5421,3 +5421,55 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [18:56:36] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player AmongUS
 [18:56:44] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of AmongUS (18)
 [18:56:44] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to AmongUS
+[19:06:50] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to lasterno
+[19:06:50] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for lasterno
+[19:07:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno has made the advancement [A Terrible Fortress]
+[19:07:10] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[19:08:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno has made the advancement [Into Fire]
+[19:08:31] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[19:08:31] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[19:08:31] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[19:09:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[19:09:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[19:09:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[19:09:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lasterno: Given Regeneration (ID 10) * 0 to lasterno for 30 seconds]
+[19:10:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: lasterno moved wrongly!
+[19:10:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AmongUS is bleeding...
+[19:10:17] [Server thread/INFO] [tombstone]: The death event of the player AmongUS was cancelled by another mod
+[19:10:17] [Server thread/INFO] [tombstone]: AmongUS has successfully been saved
+[19:10:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AmongUS did not like the sun
+[19:10:19] [Server thread/INFO] [tombstone]: The last known grave of AmongUS is at location [name:Last Grave, x:-280, y:64, z:252] in the dimension 0
+[19:10:21] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to AmongUS
+[19:10:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno is bleeding...
+[19:10:27] [Server thread/INFO] [tombstone]: The death event of the player lasterno was cancelled by another mod
+[19:10:27] [Server thread/INFO] [tombstone]: lasterno has successfully been saved
+[19:10:27] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to lasterno
+[19:10:27] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for lasterno
+[19:10:50] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to AmongUS
+[19:10:50] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for AmongUS
+[19:11:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AmongUS is bleeding...
+[19:11:18] [Server thread/INFO] [tombstone]: The death event of the player AmongUS was cancelled by another mod
+[19:11:18] [Server thread/INFO] [tombstone]: AmongUS has successfully been saved
+[19:11:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AmongUS was fireballed by Scorcher
+[19:11:22] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to AmongUS
+[19:11:24] [Server thread/INFO] [morpheus]: ErPatatusssss is now sleeping. 1/3 (33%)
+[19:11:32] [Server thread/INFO] [morpheus]: AmongUS is now sleeping. 2/3 (66%)
+[19:11:33] [Server thread/INFO] [morpheus]: ErPatatusssss is now sleeping. 1/3 (33%)
+[19:11:33] [Server thread/INFO] [morpheus]: AmongUS is now sleeping. 2/3 (66%)
+[19:11:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ErPatatusssss moved wrongly!
+[19:11:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: AmongUS moved wrongly!
+[19:11:58] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to AmongUS
+[19:11:58] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for AmongUS
+[19:12:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: AmongUS moved too quickly! -9.17843266864761,0.0,-4.390856091377209
+[19:13:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AmongUS is bleeding...
+[19:13:10] [Server thread/INFO] [tombstone]: The death event of the player AmongUS was cancelled by another mod
+[19:13:10] [Server thread/INFO] [tombstone]: AmongUS has successfully been saved
+[19:13:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AmongUS was slain by Magma Cube
+[19:13:16] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to AmongUS
+[19:13:31] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: AmongUS lost connection: Disconnected
+[19:13:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AmongUS left the game
+[19:13:31] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client AmongUS
+[19:13:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <lasterno> bye
+[19:13:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: lasterno lost connection: Disconnected
+[19:13:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno left the game
+[19:13:48] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client lasterno

@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2025-08-09 19:09:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-08-07 18:38:04 +0000"
@@ -570,6 +576,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "skeleton": "2025-08-08 08:13:32 +0000",
+      "blaze": "2025-08-09 19:07:19 +0000",
       "zombie": "2025-08-07 18:51:05 +0000",
       "spider": "2025-08-07 18:49:14 +0000",
       "creeper": "2025-08-08 08:23:08 +0000"
@@ -669,6 +676,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_lapis": "2025-08-07 19:06:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-08-09 19:08:31 +0000"
     },
     "done": true
   },
@@ -2007,6 +2020,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-08-09 19:07:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-08-08 10:28:00 +0000"
@@ -2194,6 +2213,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-08-09 19:08:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/string_to_wool": {
     "criteria": {
       "has_string": "2025-08-07 18:49:15 +0000"
@@ -2254,6 +2279,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-08-09 19:08:31 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2025-08-08 10:35:08 +0000"
@@ -2299,6 +2330,12 @@
   "mcwtrpdoors:recipes/jungle/jungle_four_panel_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-09 10:28:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2025-08-09 19:09:16 +0000"
     },
     "done": true
   },
@@ -2377,6 +2414,12 @@
   "vampirism:vampire/become_vampire": {
     "criteria": {
       "main": "2025-08-07 19:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2025-08-09 19:09:16 +0000"
     },
     "done": true
   },
