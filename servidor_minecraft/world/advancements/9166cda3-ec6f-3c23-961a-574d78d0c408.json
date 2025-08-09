@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "evilcraft:evil_source": {
+    "criteria": {
+      "criteria_0": "2025-08-09 17:19:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-08-07 18:07:44 +0000"
@@ -428,6 +434,12 @@
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2025-08-08 16:03:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-08-09 17:16:59 +0000"
     },
     "done": true
   },
@@ -1231,6 +1243,12 @@
     },
     "done": true
   },
+  "ebwizardry:crystal": {
+    "criteria": {
+      "criteria_0": "2025-08-09 17:31:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2025-08-07 18:44:25 +0000"
@@ -1543,6 +1561,12 @@
     },
     "done": true
   },
+  "ebwizardry:root": {
+    "criteria": {
+      "criteria_0": "2025-08-09 17:31:46 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "yellow_flower": "2025-08-07 18:55:53 +0000",
@@ -1559,6 +1583,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-07 18:16:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-08-09 17:31:46 +0000"
     },
     "done": true
   },

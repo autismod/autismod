@@ -5242,3 +5242,18 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [17:08:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno was slain by ErPatatusssss
 [17:08:38] [Server thread/INFO] [tombstone]: The last known grave of lasterno is at location [name:Last Grave, x:-288, y:67, z:286] in the dimension 0
 [17:08:39] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to lasterno
+[17:15:09] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[17:16:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[17:18:39] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[17:19:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: AmongUS moved too quickly! 0.967294696709132,-5.172333932593304,10.707598943310813
+[17:19:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ErPatatusssss has made the advancement [A True Source of Evil]
+[17:19:57] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[17:20:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: AmongUS moved too quickly! -1.9180307884157344,1.6793380673431386,19.941504141980232
+[17:30:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: AmongUS moved too quickly! -8.522067670624836,-4.4605590748729895,-6.045113589686679
+[17:30:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: AmongUS moved too quickly! -9.108964716273249,7.741826810233675,-10.49033462443856
+[17:30:59] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Player ErPatatusssss just tried to change non-editable sign
+[17:31:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ErPatatusssss has made the advancement [Isn't It Iron Pick]
+[17:31:46] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[17:31:46] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[17:31:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ErPatatusssss has made the advancement [A Curious Crystal...]
+[17:31:46] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
