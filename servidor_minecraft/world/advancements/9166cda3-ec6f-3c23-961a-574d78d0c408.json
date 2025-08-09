@@ -1764,6 +1764,12 @@
     },
     "done": true
   },
+  "bewitchment:mined_salt": {
+    "criteria": {
+      "hat": "2025-08-09 18:24:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-08-08 15:38:24 +0000"
@@ -1863,6 +1869,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stonebrick": "2025-08-08 18:35:17 +0000"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2025-08-09 18:23:53 +0000"
     },
     "done": true
   },
