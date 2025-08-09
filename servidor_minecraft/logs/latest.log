@@ -5473,3 +5473,4 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [19:13:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: lasterno lost connection: Disconnected
 [19:13:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno left the game
 [19:13:48] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client lasterno
+[19:21:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
