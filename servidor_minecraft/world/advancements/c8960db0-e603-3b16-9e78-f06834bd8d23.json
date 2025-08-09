@@ -1935,6 +1935,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2025-08-09 18:09:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-08-07 19:20:27 +0000"
